@@ -39,3 +39,5 @@ export API_AUDIENCE="Agency_Specifications"
 export FLASK_APP=flaskr
 export FLASK_ENV=development
 export NEW_VAR="Testing export"
+
+export DATABASE_URL="postgres://rnnhdflqtiexnl:6efe0b38acaa99100c0e9ebda8ba45c5b816519b7321a0e02d985a459ff95c1a@ec2-18-215-111-67.compute-1.amazonaws.com:5432/d1fr05l88m7v03"
